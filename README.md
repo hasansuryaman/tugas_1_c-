@@ -7,4 +7,4 @@
 
 ## Hasil :
 
-![Tampilkan nama](/screenshoot.png)
+![Tampilkan nama](/tugas01-c++.png)
