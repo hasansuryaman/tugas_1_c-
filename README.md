@@ -1,10 +1,5 @@
 # Tugas 1 C++ 
 
-## Tugas :
-- membuat program untuk menampilkan nama ~ [Niomic](https://niomic.com/)
+Hello World, Membuat program untuk menampilkan nama.
 
-<br>
-
-## Hasil :
-
-![Tampilkan nama](/tugas01-c++.png)
+![Tampilkan nama](screen/tugas01-c++.png)
